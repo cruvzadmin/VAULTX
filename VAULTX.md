@@ -1,4 +1,3 @@
-[VAULTX.md](https://github.com/user-attachments/files/22133148/VAULTX.md)
 # VAULTX: Secure WAF Deployment Guide for Multi-Tenant Hosting Environments
 
 ## Overview
